@@ -117,7 +117,5 @@ _________{}you can find images bellow{} ___________
 2017
   
   
-  https://github.com/Hisham9995/stocks-analysis/blob/main/2017.png
-
-2018
-https://github.com/Hisham9995/stocks-analysis/blob/main/2018.png
+ ![](2018.png) 
+ ![](2019.png) 
