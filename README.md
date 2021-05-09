@@ -115,7 +115,9 @@ It's risky when the application is big becausse there is a chance of  Functional
 
 _________{}you can find images bellow{} ___________
 2017
-https://github.com/Hisham9995/stocks-analysis/blob/main/2017.png
+  
+  
+  https://github.com/Hisham9995/stocks-analysis/blob/main/2017.png
 
 2018
 https://github.com/Hisham9995/stocks-analysis/blob/main/2018.png
