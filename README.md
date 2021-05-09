@@ -3,11 +3,11 @@ green_stocks.xlsm
 
 ## Overview Project
 ###  Purpose
-The Purpose of this project was to help Steve  to find the total daily volume and yearly return for each stock.in the year 2017 and 2018   
-If steve made profit or lost money  ,By Using a Microsoft Excel VBA to collect these Data , This Challenge is  to refactor the code  and run Faster.
+The Purpose of this project was to help Steve  to find the total daily volume and yearly return for each stock. in the year 2017 and 2018   
+If steve made a profit or lost money  ,By Using a Microsoft Excel VBA to collect these Data , This Challenge is  to refactor the code  and run Faster.
 
 ## The Data
-It represnts two charts for  2018 and 2017 these charts contains  12 different stocks with 8 columns  ticker value, the date the stock was issued, the opening,
+It  represents  two charts for  2018 and 2017 these charts contain  12 different stocks with 8 columns  ticker value, the date the stock was issued, the opening,
 closing and adjusted closing price, the highest and lowest price, and the volume of the stock , this challenge is to determine stock performance and the return 
 
 ## Results
@@ -15,7 +15,7 @@ closing and adjusted closing price, the highest and lowest price, and the volume
 
 
     I did create output tickerindex = 0  and three  arrays by using Dim to declare variables ,I did use for loop to get tickerstarting Prices , tickerending Prices 
-    and tickerVolumes  I also for loop helped me in counting the rows  on the other hand increasing the Volumes I used  Cells(i - 1, 1).Value <> tickers(tickerIndex)
+    and tickerVolumes  I also for loop helped me in counting the rows  ,on the other hand,increasing the Volumes I used  Cells(i - 1, 1).Value <> tickers(tickerIndex)
     to determine tickerstarting Prices and Cells(i + 1, 1).Value <> tickers(tickerIndex) determining tickerending Prices in point "4" I did use for loop to get the return 
     and ticker volumes and tickers 
     
@@ -105,13 +105,13 @@ End Sub
 
 ## Summary
 ### Pros and Cons of Refactoring Code
-The Cons is debugging I had hard time figuring out errors and solving the problem another cons is sometimes the system lose fuctional 
-the pros it view your project more orgnized after refactoring and clear  with a good design and look  and will be runing slightly faster 
+The Cons is debugging I had a hard time figuring out errors and solving the problem another cons is sometimes the system lose functional
+the pros it views your project more organized after refactoring and clear  with a good design and look  and will be running slightly faster 
 
 ### The Advantages of Refactoring Stock Analysis
-The Advantages are to make the  code cleaner and more organized ,easy to read and analyze  , Also more simple  to fix  
+The Advantages are to make the  code cleaner and more organized , easy to read and analyze  , Also more simple  to fix  
 ### The disadvantages Refactoring Stock Analysis
-It's risky when the application is big becausse there is a chance of  Functional Loss on the other hand it is time consuming and  full debugging problems 
+It's risky when the application is big because there is a chance of  Functional Loss on the other hand it is time-consuming and  full debugging problems 
 
 ______________________________________________________
 images Bellow shows the elapsed time for 2017 and 2018.
