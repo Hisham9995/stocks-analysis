@@ -1,12 +1,12 @@
 # stocks-analysis
+green_stocks.xlsm
 
-
-##Overview Project
-###Purpose
+## Overview Project
+###  Purpose
 The Purpose of this project was to help Steve  to find the total daily volume and yearly return for each stock.in the year 2017 and 2018   
 If steve made profit or lost money  ,By Using a Microsoft Excel VBA to collect these Data , This Challenge is  to refactor the code  and run Faster.
 
-###The Data
+## The Data
 It represnts two charts for  2018 and 2017 these charts contains  12 different stocks with 8 columns  ticker value, the date the stock was issued, the opening,
 closing and adjusted closing price, the highest and lowest price, and the volume of the stock , this challenge is to determine stock performance and the return 
 
