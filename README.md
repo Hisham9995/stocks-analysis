@@ -113,8 +113,8 @@ The Advantages are to make the  code cleaner and more organized ,easy to read an
 ### The disadvantages Refactoring Stock Analysis
 It's risky when the application is big becausse there is a chance of  Functional Loss on the other hand it is time consuming and  full debugging problems 
 
-_________{}you can find images bellow{} ___________
-2017
+______________________________________________________
+images Bellow shows the elapsed time for 2017 and 2018.
   
   
  ![](2018.png) 
