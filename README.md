@@ -1,2 +1,2 @@
 # stocks-analysis
-green_stocks.xlsm
+green_stocks
